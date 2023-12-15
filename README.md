@@ -95,55 +95,71 @@ Screenshots of sample data in each table, demonstrating how the data is organize
 
 ### Home Page:
 - **Home Page Screenshot**: Shows the initial landing page of the website.
+
   ![Home Page Screenshot](screenshots/Home%20Page.jpg)
 
 ### Board Games Management:
 - **Board Games Add – Create Step**: A view of the interface for adding new board games.
+
   ![Board Games Add](screenshots/Board%20Games%20Add%20%E2%80%93%20Create%20Step.jpg)
 
 - **Board Games – Update Step**: Demonstrates the update functionality for board games.
+
   ![Board Games Update](screenshots/Board%20Games%20Update%20%E2%80%93%20Update%20Step.jpg)
 
 - **Board Games – Delete Step**: Showcases the delete functionality for board games.
+  
   ![Board Games Delete](screenshots/Board%20Games%20Delete%20%E2%80%93%20Delete%20Step.jpg)
 
 ### Customers Management:
 - **Customers Display – Read Step**: Displays how customer information is presented.
+  
   ![Customers Display](screenshots/Customers%20Display%20%E2%80%93%20Read%20Step.jpg)
 
 - **Customers Add – Create Step**: Interface for adding new customers.
+  
   ![Customers Add](screenshots/Customers%20Add%20%E2%80%93%20Create%20Step.jpg)
 
 - **Customers – Update Step**: Shows the customer update process.
+  
   ![Customers Update](screenshots/Customers%20Update%20%E2%80%93%20Update%20Step.jpg)
 
 - **Customers – Delete Step**: Demonstrates the process of deleting a customer record.
+  
   ![Customers Delete](screenshots/Customers%20Delete%20%E2%80%93%20Delete%20Step.jpg)
 
 ### Invoices Management:
 - **Invoices Display – Read Step**: Illustrates how invoices are displayed.
+  
   ![Invoices Display](screenshots/Invoices%20Display%20%E2%80%93%20Read%20Step.jpg)
 
 - **Invoices – Create Step**: Shows the interface for creating new invoices.
+  
   ![Invoices Add](screenshots/Invoices%20Add%20%E2%80%93%20Create%20Step.jpg)
 
 - **Invoices – Update Step**: Displays the invoice update functionality.
+  
   ![Invoices Update](screenshots/Invoices%20Update%20%E2%80%93%20Update%20Step.jpg)
 
 - **Invoices – Delete Step**: Shows how invoices are deleted.
+  
   ![Invoices Delete](screenshots/Invoices%20Delete%20%E2%80%93%20Delete%20Step.jpg)
 
 ### Invoice Details Management:
 - **Invoice Details Display – Read Step**: Displays the interface for viewing invoice details.
+  
   ![Invoice Details Display](screenshots/Invoice%20Details%20Display%20%E2%80%93%20Read%20Step.jpg)
 
 - **Invoice Details – Create Step**: Interface for adding new invoice details.
+  
   ![Invoice Details Add](screenshots/Invoice%20Details%20Add%20%E2%80%93%20Create%20Step.jpg)
 
 - **Invoice Details – Update Step**: Demonstrates the update functionality for invoice details.
+  
   ![Invoice Details Update](screenshots/Invoice%20Details%20Update%20%E2%80%93%20Update%20Step.jpg)
 
 - **Invoice Details – Delete Step**: Demonstrates how invoices details are deleted.
+  
   ![Invoice Details Delete](screenshots/Invoice%20Details%20Delete.jpg)
 
 ## The Challenge and Our Solution
