@@ -1,14 +1,14 @@
 # Board Game Rentals 🎲
 
+## Our Vision for Fun and Functionality
+
+Welcome to "Board Game Rentals," where the love for board games meets the finesse of technology! This document isn't just a manual; it's a glimpse into our passion for creating a space where board game cafes and their patrons can connect effortlessly.
+
 #### Crafted by Enthusiasts:
 
 - [Luis Sosa](https://github.com/luisJsosa/) - Focused on the web interface design, frontend development, and testing, ensuring an engaging and user-friendly experience. Conducted UX research and gathered feedback, which was crucial for refining the user interface. Implemented Bootstrap for responsive design, and handled dynamic webpage behavior using JavaScript. Additionally, coordinated project deployment to the server, gathered requirements, and created the project documentation.
 
 - [Paola Cernada](https://github.com/paolacernada/) - Responsible for the MySQL database design, including creating and testing the database to ensure robustness and reliability. Contributed significantly to the implementation of the Flask backend, establishing a stable and efficient server-side framework. Additionally, worked on project deployment to the server alongside Luis.
-
-## Our Vision for Fun and Functionality
-
-Welcome to "Board Game Rentals," where the love for board games meets the finesse of technology! This document isn't just a manual; it's a glimpse into our passion for creating a space where board game cafes and their patrons can connect effortlessly.
 
 ### Contributions:
 
