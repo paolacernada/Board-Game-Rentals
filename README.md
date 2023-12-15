@@ -66,79 +66,100 @@ We shifted gears from Node.js to Flask, a move inspired by hands-on experience a
 This section includes a comprehensive screenshot of the database schema, illustrating the structure of the entire database and how the tables are interconnected.
 
 - **Complete Database Schema**: Showcases the structure of all tables including `board_games`, `customers`, `invoices`, `invoice_details`, and `employees`.
-![Complete Database Schema](screenshots/schema.jpg)
+  ![Complete Database Schema](screenshots/schema.jpg)
 
 ### Sample Data:
 Screenshots of sample data in each table, demonstrating how the data is organized and stored.
 
-- **Board Games Table Sample Data**: Illustrates sample records in the `board_games` table.
+- **Board Games Table Sample Data**
+  
   ![Board Games Table Sample Data](screenshots/Board%20Games%20Table%E2%80%99s%20Sample%20Data.jpg)
 
-- **Customers Table Sample Data**: Displays sample customer records.
+- **Customers Table Sample Data**
+  
   ![Customers Table Sample Data](screenshots/Customers%20Table%E2%80%99s%20Sample%20Data.jpg)
 
-- **Invoices Table Sample Data**: Shows sample invoice records.
+- **Invoices Table Sample Data**
+  
   ![Invoices Table Sample Data](screenshots/Invoices%20Table%E2%80%99s%20Sample%20Data.jpg)
 
-- **Invoice Details Table Sample Data**: Presents sample records in the `invoice_details` table.
+- **Invoice Details Table Sample Data**
+  
   ![Invoice Details Table Sample Data](screenshots/InvoiceDetails%20Table%E2%80%99s%20Sample%20Data.jpg)
 
-- **Employees Table Sample Data**: Displays sample employee records.
-![Employees Table Sample Data](screenshots/Employees%20Table%E2%80%99s%20Sample%20Data.jpg)
+- **Employees Table Sample Data**
+  
+  ![Employees Table Sample Data](screenshots/Employees%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 ## UI Screenshots
 
 ### Home Page:
 - **Home Page Screenshot**: Shows the initial landing page of the website.
+
   ![Home Page Screenshot](screenshots/Home%20Page.jpg)
 
 ### Board Games Management:
 - **Board Games Add – Create Step**: A view of the interface for adding new board games.
+
   ![Board Games Add](screenshots/Board%20Games%20Add%20%E2%80%93%20Create%20Step.jpg)
 
 - **Board Games – Update Step**: Demonstrates the update functionality for board games.
+
   ![Board Games Update](screenshots/Board%20Games%20Update%20%E2%80%93%20Update%20Step.jpg)
 
 - **Board Games – Delete Step**: Showcases the delete functionality for board games.
+  
   ![Board Games Delete](screenshots/Board%20Games%20Delete%20%E2%80%93%20Delete%20Step.jpg)
 
 ### Customers Management:
 - **Customers Display – Read Step**: Displays how customer information is presented.
+  
   ![Customers Display](screenshots/Customers%20Display%20%E2%80%93%20Read%20Step.jpg)
 
 - **Customers Add – Create Step**: Interface for adding new customers.
+  
   ![Customers Add](screenshots/Customers%20Add%20%E2%80%93%20Create%20Step.jpg)
 
 - **Customers – Update Step**: Shows the customer update process.
+  
   ![Customers Update](screenshots/Customers%20Update%20%E2%80%93%20Update%20Step.jpg)
 
 - **Customers – Delete Step**: Demonstrates the process of deleting a customer record.
+  
   ![Customers Delete](screenshots/Customers%20Delete%20%E2%80%93%20Delete%20Step.jpg)
 
 ### Invoices Management:
 - **Invoices Display – Read Step**: Illustrates how invoices are displayed.
+  
   ![Invoices Display](screenshots/Invoices%20Display%20%E2%80%93%20Read%20Step.jpg)
 
 - **Invoices – Create Step**: Shows the interface for creating new invoices.
+  
   ![Invoices Add](screenshots/Invoices%20Add%20%E2%80%93%20Create%20Step.jpg)
 
 - **Invoices – Update Step**: Displays the invoice update functionality.
+  
   ![Invoices Update](screenshots/Invoices%20Update%20%E2%80%93%20Update%20Step.jpg)
 
 - **Invoices – Delete Step**: Shows how invoices are deleted.
+  
   ![Invoices Delete](screenshots/Invoices%20Delete%20%E2%80%93%20Delete%20Step.jpg)
 
 ### Invoice Details Management:
 - **Invoice Details Display – Read Step**: Displays the interface for viewing invoice details.
+  
   ![Invoice Details Display](screenshots/Invoice%20Details%20Display%20%E2%80%93%20Read%20Step.jpg)
 
 - **Invoice Details – Create Step**: Interface for adding new invoice details.
+  
   ![Invoice Details Add](screenshots/Invoice%20Details%20Add%20%E2%80%93%20Create%20Step.jpg)
 
 - **Invoice Details – Update Step**: Demonstrates the update functionality for invoice details.
+  
   ![Invoice Details Update](screenshots/Invoice%20Details%20Update%20%E2%80%93%20Update%20Step.jpg)
 
 - **Invoice Details – Delete Step**: Demonstrates how invoices details are deleted.
+  
   ![Invoice Details Delete](screenshots/Invoice%20Details%20Delete.jpg)
 
 ## The Challenge and Our Solution
