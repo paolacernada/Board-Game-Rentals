@@ -2,7 +2,8 @@
 
 #### Crafted by Enthusiasts:
 
-- [Luis Sosa Lora](https://github.com/luisJsosa/) - Focused on the web interface design, frontend development, and testing, ensuring an engaging and user-friendly experience. Conducted UX research and gathered feedback, crucial for refining the user interface. Implemented Bootstrap for responsive design, and handled dynamic webpage behavior using JavaScript. Coordinated project deployment to the server.
+- [Luis Sosa Lora](https://github.com/luisJsosa/) - Focused on the web interface design, frontend development, and testing, ensuring an engaging and user-friendly experience. Conducted UX research and gathered feedback, which was crucial for refining the user interface. Implemented Bootstrap for responsive design, and handled dynamic webpage behavior using JavaScript. Additionally, coordinated project deployment to the server, gathered requirements, and created the project documentation.
+
 - [Paola Cernada](https://github.com/paolacernada/) - Responsible for the MySQL database design, including creating and testing the database to ensure robustness and reliability. Contributed significantly to the implementation of the Flask backend, establishing a stable and efficient server-side framework. Additionally, worked on project deployment to the server alongside Luis.
 
 ## Our Vision for Fun and Functionality
@@ -16,13 +17,14 @@ Welcome to "Board Game Rentals," where the love for board games meets the finess
 - **UX Research and Feedback Integration**: Conducted user experience research, gathering valuable insights to enhance the usability of the web interface.
 - **Implementing Bootstrap**: Utilized Bootstrap to ensure a responsive and visually appealing design across various devices.
 - **JavaScript for Dynamic Webpage Behavior**: Implemented JavaScript to add interactivity and dynamic elements to the web interface, enhancing user engagement.
-- **Dynamic HTML Content through Templating Engine**: Utilized a templating engine to generate dynamic HTML content, making the website more interactive and user-friendly.
+- **Dynamic HTML Content through Jinja Templating Engine**: Utilized a Jinga templating engine to generate dynamic HTML content, making the website more interactive and user-friendly.
   
 **Paola Cernada**:
 - **MySQL Database Design**: Developed a comprehensive and efficient database structure, laying the foundation for robust data management.
 - **Sample Data Creation**: Curated a variety of sample data, essential for demonstrating the database's functionality and for testing purposes.
 - **Database Testing**: Rigorously tested the database to ensure data integrity and reliability, a critical aspect of backend development.
 - **Flask Backend Implementation**: Integrated Flask to manage server-side operations, providing a stable and efficient backend framework.
+- **Dynamic HTML Content through Jinja Templating Engine**: Utilized a Jinga templating engine to generate dynamic HTML content, making the website more interactive and user-friendly.
 
 **Joint Contributions**:
 - **Project Deployment to Server**: Collaborated in deploying the project to a server, ensuring the application is accessible and runs smoothly.
