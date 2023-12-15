@@ -2,8 +2,8 @@
 
 #### Crafted by Enthusiasts:
 
-- Luis Sosa Lora
-- Paola Cernada
+- [Luis Sosa Lora](https://github.com/luisJsosa/)
+- [Paola Cernada](https://github.com/paolacernada/)
 
 ## Our Vision for Fun and Functionality
 
