@@ -28,9 +28,11 @@ The Board Game Rentals Project adheres to the following specifications:
 4. Each entity implemented as a table in the database is represented by roughly one web app page in the front end user experience (UX). For many-to-many relationships between two tables, both tables are managed on a single web page.
 5. Optionally, a home page can be added to the project, but it is not required.
 
-## Executive Summary: Project Feedback and Changes Made
+## Executive Summary: 
 
-Our project aimed to deliver a high-quality board game rental café application. Throughout the development process, we received valuable feedback that guided us in making significant changes. This executive summary provides an overview of the major changes made, primarily focusing on the database design process and implementation steps.
+### Project Feedback and Changes Made
+
+Our project aimed to deliver a high-quality board game rental café application. Throughout the development process, we received valuable user feedback from testers that guided us in making significant changes. This is overview of the major changes made, primarily focusing on the database design process and implementation steps.
 
 ### Database Design Process
 
