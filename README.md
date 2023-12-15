@@ -72,15 +72,19 @@ This section includes a comprehensive screenshot of the database schema, illustr
 Screenshots of sample data in each table, demonstrating how the data is organized and stored.
 
 - **Board Games Table Sample Data**: Illustrates sample records in the `board_games` table.
+  
   ![Board Games Table Sample Data](screenshots/Board%20Games%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 - **Customers Table Sample Data**: Displays sample customer records.
+  
   ![Customers Table Sample Data](screenshots/Customers%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 - **Invoices Table Sample Data**: Shows sample invoice records.
+  
   ![Invoices Table Sample Data](screenshots/Invoices%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 - **Invoice Details Table Sample Data**: Presents sample records in the `invoice_details` table.
+  
   ![Invoice Details Table Sample Data](screenshots/InvoiceDetails%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 - **Employees Table Sample Data**: Displays sample employee records.
