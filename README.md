@@ -66,7 +66,7 @@ We shifted gears from Node.js to Flask, a move inspired by hands-on experience a
 This section includes a comprehensive screenshot of the database schema, illustrating the structure of the entire database and how the tables are interconnected.
 
 - **Complete Database Schema**: Showcases the structure of all tables including `board_games`, `customers`, `invoices`, `invoice_details`, and `employees`.
-![Complete Database Schema](screenshots/schema.jpg)
+  ![Complete Database Schema](screenshots/schema.jpg)
 
 ### Sample Data:
 Screenshots of sample data in each table, demonstrating how the data is organized and stored.
@@ -84,7 +84,8 @@ Screenshots of sample data in each table, demonstrating how the data is organize
   ![Invoice Details Table Sample Data](screenshots/InvoiceDetails%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 - **Employees Table Sample Data**: Displays sample employee records.
-![Employees Table Sample Data](screenshots/Employees%20Table%E2%80%99s%20Sample%20Data.jpg)
+  
+  ![Employees Table Sample Data](screenshots/Employees%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 ## UI Screenshots
 
