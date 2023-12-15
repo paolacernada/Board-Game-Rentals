@@ -1,92 +1,69 @@
-# Board Game Rentals 
+# Board Game Rentals 🎲
 
-#### Project created by:
+#### Crafted by Enthusiasts:
 
---Luis Sosa Lora
---Paola Cernada
+- Luis Sosa Lora
+- Paola Cernada
 
-## Project Overview
+## Our Vision for Fun and Functionality
 
-Our project aims to deliver a high-quality board game rental café application. The purpose of this document is to provide a comprehensive overview of the project, including the goals, specifications, and the changes made based on valuable feedback received.
+Welcome to "Board Game Rentals," where the love for board games meets the finesse of technology! This document isn't just a manual; it's a glimpse into our passion for creating a space where board game cafes and their patrons can connect effortlessly.
 
-## Project Goals
+## Goals: The Heart of Our Game
 
-In this project, we aimed to achieve the following objectives:
+Our mission? To build a web interface that's not just functional but also a joy to use. Think of it as the perfect blend of tech and fun, offering Create-Read-Update-Delete (CRUD) capabilities with a twist of user-friendly design.
 
-1. Implement all the database-related skills learned in the CS340 and CS290 courses.
-2. Transform an idea into a functional database.
-3. Develop a web-based user interface (UI) that provides Create-Read-Update-Delete (CRUD) functionalities for the database.
-4. Work in steps towards accomplishing a larger goal.
+## Building Blocks: Our Game Plan
 
-## Specifications
+Here's what makes our project tick:
 
-The Board Game Rentals Project adheres to the following specifications:
+1. **Data Playground**: Our database is a treasure trove, pre-loaded with games to showcase every feature in full color.
+2. **Relational Dynamics**: We've crafted a web of entities and relationships, including a many-to-many relationship that's as intriguing as a game strategy.
+3. **Admin's Arena**: Designed for those behind the scenes (the café wizards), our interface focuses on managing the magic, not the mundane.
+4. **One Page, One Story**: Each database entity gets its own spotlight in our UI, making navigation a part of the adventure.
+5. **Optional Home Base**: A welcoming home page to kick things off? Your call!
 
-1. The database is pre-populated with sample data, with a minimum of three rows per table. The sample data effectively demonstrates the functionality of each table, including many-to-many relationships.
-2. The database consists of at least four entities and four relationships, including one many-to-many relationship. These entities and relationships fulfill the operational requirements of the project.
-3. The web interface is designed for administrators of the database, not customers. Therefore, there is no need for login pages, sessions, registration/password functionality, shopping cart, check-out, and similar features. The project solely focuses on providing a user interface for the tables.
-4. Each entity implemented as a table in the database is represented by roughly one web app page in the front end user experience (UX). For many-to-many relationships between two tables, both tables are managed on a single web page.
-5. Optionally, a home page can be added to the project, but it is not required.
+## Executive Summary: Leveling Up
 
-## Executive Summary: 
+### Refining the Game Board
 
-### Project Feedback and Changes Made
+- Ditched the redundant table to streamline our data flow.
+- Upgraded key tables for better performance and clarity.
 
-Our project aimed to deliver a high-quality board game rental café application. Throughout the development process, we received valuable user feedback from testers that guided us in making significant changes. This is overview of the major changes made, primarily focusing on the database design process and implementation steps.
+### Master Moves Implemented
 
-### Database Design Process
+- Added nuances with nullable relationships.
+- Integrated cascade delete for a flawless game experience.
+- Leveraged join queries for smarter, faster data retrieval.
 
-1. Removed the redundant intersection table ("customer_has_board_games").
-2. Updated and improved the remaining intersection table ("invoice_details").
-3. Merged the attributes of the "Customers Revenue" table into the "Customers" table for better data organization.
+### Evolution Through Feedback
 
-### Implementation Steps
+We shifted gears from Node.js to Flask, a move inspired by hands-on experience and valuable feedback. The result? A smoother, more efficient pathway to delivering an exceptional board game rental experience.
 
-1. Added nullable relationships for optional associations in the "Invoices" and "Employees" entities.
-2. Implemented on cascade delete to maintain data integrity and remove associated invoices and invoice details when a customer is deleted.
-3. Utilized join queries to combine data from different tables, resulting in improved query efficiency.
+## The Challenge and Our Solution
 
-Additionally, we made a significant change in transitioning the project from Node.js to Flask. This decision was based on the challenges and limitations experienced with Node.js on the Flip server. Flask simplified the development process and provided a more straightforward and lightweight framework.
+**The Quest**: In a world where board games became the heroes of home entertainment, board game cafes sprouted up needing a digital ally.
 
-The feedback received during the project was instrumental in shaping its development. Suggestions from peer reviews led to significant changes, including the removal of redundant tables, updating and merging relevant information, implementing nullable relationships, and utilizing join queries. These changes enhanced functionality, improved data organization and integrity, and increased query efficiency. As a result, our project now stands poised to deliver a high-quality board game rental café application.
+**Our Magic Potion**: A web-based beacon that guides café owners through the maze of game rentals and inventory management.
 
-## Project Outline
+## Toolkit of Choice
 
-### Problem
-
-During the pandemic, when people were confined to their homes, the popularity of board games soared. Consequently, many board game cafés emerged. However, most of these small businesses lacked a proper Customer Relationship Management (CRM) system to effectively manage their rentals and inventory.
-
-### Solution
-
-Our database-driven website addresses the problem by recording rental orders of board games for café patrons. It allows café administrators to keep track of their board game inventory checked out by customers.
-
-## Technologies Used
-
-For the implementation of our project, we utilized the following technologies:
-
-1. Flask: We chose Flask as our web framework for its simplicity, flexibility, and compatibility with Python. Flask allowed us to develop our web-based UI efficiently.
-
-2. MySQL: We used MySQL as our relational database management system (RDBMS) to store and manage our project's data. MySQL provided robust data storage and retrieval capabilities.
-
-3. phpMyAdmin: We utilized phpMyAdmin as a web-based tool for managing our MySQL database. It provided a user-friendly interface to interact with the database, allowing us to perform various administrative tasks.
-
-4. SQL Workbench: SQL Workbench served as our integrated development environment (IDE) for writing and executing SQL queries. It provided a powerful interface for managing the database schema, executing queries, and analyzing the data.
-
-5. Jinja2: Jinja2 is a templating engine used in Flask to generate dynamic HTML content. We leveraged Jinja2 to integrate Python code seamlessly into our HTML templates, enabling dynamic rendering of data on the web pages.
-
-6. Bootstrap: We utilized Bootstrap, a popular CSS framework, to enhance the user interface of our web application. Bootstrap provided responsive design elements and pre-built components, ensuring a visually appealing and user-friendly experience.
+- **Flask**: Our wizard's wand for web development.
+- **MySQL**: The backbone of our data kingdom.
+- **phpMyAdmin & SQL Workbench**: Our crystal balls for database interactions.
+- **Jinja2 & Bootstrap**: The artists painting our UI with strokes of functionality and style.
 
 ## Deployment and Testing on Local Server
 
 To deploy and test the project on a local server, follow these steps:
 
-1. Install Python: Ensure that Python is installed on your system. You can download and install the latest version of Python from the official Python website (python.org).
+1. Install Python: Ensure that Python is installed on your system. You can download and install the latest version of Python from the official Python website [python.org](https://www.python.org)..
 
 2. Set Up a Virtual Environment: Create a virtual environment for your project to isolate its dependencies. Open your command-line interface, navigate to the project directory, and run the following command:
    ```
    python -m venv venv
    ```
-
+   
 3. Activate the Virtual Environment: Activate the virtual environment by running the appropriate command for your operating system:
    - Windows:
      ```
