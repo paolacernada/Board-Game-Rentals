@@ -60,6 +60,10 @@ Here's what makes our project tick:
 
 We shifted gears from Node.js to Flask, a move inspired by hands-on experience and valuable feedback. The result? A smoother, more efficient pathway to delivering an exceptional board game rental experience.
 
+## Database Design and Sample Data Screenshots
+
+## UI Screenshots
+
 ## The Challenge and Our Solution
 
 **The Quest**: In a world where board games became the heroes of home entertainment, board game cafes sprouted up needing a digital ally.
