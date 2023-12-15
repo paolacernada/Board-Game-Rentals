@@ -107,10 +107,6 @@ Screenshots of sample data in each table, demonstrating how the data is organize
 
   ![Board Games Update](screenshots/Board%20Games%20Update%20%E2%80%93%20Update%20Step.jpg)
 
-- **Board Games – Delete Step**: Showcases the delete functionality for board games.
-  
-  ![Board Games Delete](screenshots/Board%20Games%20Delete%20%E2%80%93%20Delete%20Step.jpg)
-
 ### Customers Management:
 - **Customers Display – Read Step**: Displays how customer information is presented.
   
@@ -123,10 +119,6 @@ Screenshots of sample data in each table, demonstrating how the data is organize
 - **Customers – Update Step**: Shows the customer update process.
   
   ![Customers Update](screenshots/Customers%20Update%20%E2%80%93%20Update%20Step.jpg)
-
-- **Customers – Delete Step**: Demonstrates the process of deleting a customer record.
-  
-  ![Customers Delete](screenshots/Customers%20Delete%20%E2%80%93%20Delete%20Step.jpg)
 
 ### Invoices Management:
 - **Invoices Display – Read Step**: Illustrates how invoices are displayed.
@@ -141,10 +133,6 @@ Screenshots of sample data in each table, demonstrating how the data is organize
   
   ![Invoices Update](screenshots/Invoices%20Update%20%E2%80%93%20Update%20Step.jpg)
 
-- **Invoices – Delete Step**: Shows how invoices are deleted.
-  
-  ![Invoices Delete](screenshots/Invoices%20Delete%20%E2%80%93%20Delete%20Step.jpg)
-
 ### Invoice Details Management:
 - **Invoice Details Display – Read Step**: Displays the interface for viewing invoice details.
   
@@ -157,10 +145,6 @@ Screenshots of sample data in each table, demonstrating how the data is organize
 - **Invoice Details – Update Step**: Demonstrates the update functionality for invoice details.
   
   ![Invoice Details Update](screenshots/Invoice%20Details%20Update%20%E2%80%93%20Update%20Step.jpg)
-
-- **Invoice Details – Delete Step**: Demonstrates how invoices details are deleted.
-  
-  ![Invoice Details Delete](screenshots/Invoice%20Details%20Delete.jpg)
 
 ## The Challenge and Our Solution
 
