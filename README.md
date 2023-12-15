@@ -72,25 +72,25 @@ This section includes a comprehensive screenshot of the database schema, illustr
 Screenshots of sample data in each table, demonstrating how the data is organized and stored.
 
 - **Board Games Table Sample Data**: Illustrates sample records in the `board_games` table.
-  ![Board Games Table Sample Data](link-to-your-data-screenshot.jpg) <!-- Replace with your screenshot link -->
+  ![Board Games Table Sample Data](screenshots/Board%20Games%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 - **Customers Table Sample Data**: Displays sample customer records.
-  ![Customers Table Sample Data](link-to-your-data-screenshot.jpg) <!-- Replace with your screenshot link -->
+  ![Customers Table Sample Data](screenshots/Customers%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 - **Invoices Table Sample Data**: Shows sample invoice records.
-  ![Invoices Table Sample Data](link-to-your-data-screenshot.jpg) <!-- Replace with your screenshot link -->
+  ![Invoices Table Sample Data](screenshots/Invoices%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 - **Invoice Details Table Sample Data**: Presents sample records in the `invoice_details` table.
-  ![Invoice Details Table Sample Data](link-to-your-data-screenshot.jpg) <!-- Replace with your screenshot link -->
+  ![Invoice Details Table Sample Data](screenshots/InvoiceDetails%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 - **Employees Table Sample Data**: Displays sample employee records.
-  ![Employees Table Sample Data](link-to-your-data-screenshot.jpg) <!-- Replace with your screenshot link -->
+  ![Employees Table Sample Data](screenshots/Employees%20Table%E2%80%99s%20Sample%20Data.jpg)
 
 ## UI Screenshots
 
 ### Home Page:
 - **Home Page Screenshot**: Shows the initial landing page of the website.
-  ![Home Page Screenshot](link-to-your-ui-screenshot.jpg) <!-- Replace with your screenshot link -->
+  ![Home Page Screenshot](screenshots/Home%20Page.jpg)
 
 ### Board Games Management:
 - **Board Games Display – Read Step**: Illustrates how the board games are displayed on the website.
